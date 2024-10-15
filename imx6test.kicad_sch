@@ -1,0 +1,203 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "4eb991fa-df1c-4d0c-8591-f1fc4d03c342")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 60.96 35.56)
+		(size 26.67 16.51)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "05dc17b8-fe43-4d5f-b302-e05dc2444cda")
+		(property "Sheetname" "Power"
+			(at 60.96 34.8484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "power.kicad_sch"
+			(at 60.96 52.6546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "imx6test"
+				(path "/4eb991fa-df1c-4d0c-8591-f1fc4d03c342"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 63.5 96.52)
+		(size 25.4 15.24)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "1772b84c-df1f-4543-a9e1-60d9e38092aa")
+		(property "Sheetname" "DRAM"
+			(at 63.5 95.8084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "dram.kicad_sch"
+			(at 63.5 112.3446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "imx6test"
+				(path "/4eb991fa-df1c-4d0c-8591-f1fc4d03c342"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 121.92 64.77)
+		(size 26.67 16.51)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "86cee0c0-f6d9-4c4f-bfb3-23a1fa037a9c")
+		(property "Sheetname" "Ethernet and USB"
+			(at 121.92 64.0584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ethernet_usb.kicad_sch"
+			(at 121.92 81.8646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "imx6test"
+				(path "/4eb991fa-df1c-4d0c-8591-f1fc4d03c342"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 62.23 67.31)
+		(size 25.4 15.24)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "8ee8ded4-312d-4834-b0b5-e4e820be1a9e")
+		(property "Sheetname" "Boot and Control"
+			(at 62.23 66.5984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "boot_and_control.kicad_sch"
+			(at 62.23 83.1346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "imx6test"
+				(path "/4eb991fa-df1c-4d0c-8591-f1fc4d03c342"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 64.77 123.19)
+		(size 26.67 16.51)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "f848baed-f009-4e7c-bd01-1fcf78d8efda")
+		(property "Sheetname" "Peripherals"
+			(at 64.77 122.4784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "peripherals.kicad_sch"
+			(at 64.77 140.2846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "imx6test"
+				(path "/4eb991fa-df1c-4d0c-8591-f1fc4d03c342"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)

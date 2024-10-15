@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "imx6")(type "KiCad")(uri "${KIPRJMOD}/imx6.kicad_sym")(options "")(descr ""))
+  (lib (name "imx6_test")(type "KiCad")(uri "${KIPRJMOD}/imx6_test.kicad_sym")(options "")(descr ""))
+)
