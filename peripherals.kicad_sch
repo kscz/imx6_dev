@@ -6969,7 +6969,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 30.7848 43.18 0)
 			(effects
 				(font
@@ -7057,6 +7057,15 @@
 		)
 		(property "Description" ""
 			(at 88.646 137.668 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C414042"
+			(at 167.64 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7986,6 +7995,15 @@
 		)
 		(property "Description" ""
 			(at -23.114 60.198 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C414042"
+			(at 55.88 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9059,6 +9077,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C414042"
+			(at 59.69 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "A6"
 			(uuid "06796f7f-1a22-4fc0-8b51-d1977b05bc35")
 		)
@@ -10032,7 +10059,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 38.4048 111.76 0)
 			(effects
 				(font
@@ -10120,6 +10147,15 @@
 		)
 		(property "Description" ""
 			(at -9.144 133.858 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C414042"
+			(at 69.85 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11056,6 +11092,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C114218"
+			(at 125.73 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "5"
 			(uuid "59793b39-05c0-4f74-b8c9-6001c819b715")
 		)
@@ -11262,7 +11307,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 143.8148 110.49 0)
 			(effects
 				(font

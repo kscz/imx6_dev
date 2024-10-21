@@ -3007,6 +3007,24 @@
 					)
 				)
 			)
+			(pin passive line
+				(at -2.54 -36.83 90)
+				(length 2.54)
+				(name "EP"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "33"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
 			(pin bidirectional line
 				(at 17.78 20.32 180)
 				(length 2.54)
