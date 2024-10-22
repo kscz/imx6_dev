@@ -11291,7 +11291,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "http://www.union-ic.com/Upload/Datasheet/Datasheet_UM1650%20UM1750_Rev04.pdf"
 			(at 198.12 90.17 0)
 			(effects
 				(font
@@ -11657,7 +11657,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/AP3401.pdf"
 			(at 64.77 156.21 0)
 			(effects
 				(font
@@ -14286,7 +14286,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/AP3401.pdf"
 			(at 217.17 139.7 0)
 			(effects
 				(font
@@ -16652,7 +16652,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.monolithicpower.com/en/documentview/productdocument/index/version/2/document_type/Datasheet/lang/en/sku/MP2182GTL-Z/document_id/5083/"
 			(at 90.17 97.79 0)
 			(effects
 				(font
@@ -17037,7 +17037,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.nxp.com/docs/en/data-sheet/IMX6ULLIEC.pdf"
 			(at 63.246 66.548 0)
 			(effects
 				(font

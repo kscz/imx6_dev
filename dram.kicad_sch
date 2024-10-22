@@ -12546,7 +12546,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/6128/MT41K1G4_MT41K512M8_MT41K256M16_RevR_Sep2018.pdf"
 			(at 223.52 54.61 0)
 			(effects
 				(font
@@ -13178,7 +13178,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.nxp.com/docs/en/data-sheet/IMX6ULLIEC.pdf"
 			(at 11.176 65.278 0)
 			(effects
 				(font

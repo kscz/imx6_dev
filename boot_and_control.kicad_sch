@@ -10469,7 +10469,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.nxp.com/docs/en/data-sheet/IMX6ULLIEC.pdf"
 			(at 124.206 98.298 0)
 			(effects
 				(font
@@ -12291,7 +12291,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "http://www.union-ic.com/Upload/Datasheet/Datasheet_UM803_Rev01.pdf"
 			(at 43.18 45.72 0)
 			(effects
 				(font
@@ -13540,7 +13540,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.microcrystal.com/fileadmin/Media/Products/32kHz/Datasheet/CM7V-T1A.pdf"
 			(at 53.34 127 0)
 			(effects
 				(font
@@ -13683,7 +13683,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/137/FA_238_en-932914.pdf"
 			(at 26.67 124.46 0)
 			(effects
 				(font
@@ -14040,7 +14040,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.nxp.com/docs/en/data-sheet/IMX6ULLIEC.pdf"
 			(at 11.176 98.298 0)
 			(effects
 				(font

@@ -11461,7 +11461,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.nxp.com/docs/en/data-sheet/IMX6ULLIEC.pdf"
 			(at -12.954 140.208 0)
 			(effects
 				(font
@@ -12741,7 +12741,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.nxp.com/docs/en/data-sheet/IMX6ULLIEC.pdf"
 			(at -24.384 189.738 0)
 			(effects
 				(font
@@ -13820,7 +13820,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.nxp.com/docs/en/data-sheet/IMX6ULLIEC.pdf"
 			(at -25.654 80.518 0)
 			(effects
 				(font
@@ -15463,7 +15463,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://ww1.microchip.com/downloads/aemDocuments/documents/UNG/ProductDocuments/DataSheets/KSZ8081RNA-RND-10BASE-T-100-BASE-TX-PHY-with-RMII-Support-DS00002199F.pdf"
 			(at 103.886 6.096 0)
 			(effects
 				(font

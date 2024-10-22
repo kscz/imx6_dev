@@ -7046,7 +7046,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.nxp.com/docs/en/data-sheet/IMX6ULLIEC.pdf"
 			(at 88.646 137.668 0)
 			(effects
 				(font
@@ -7984,7 +7984,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.nxp.com/docs/en/data-sheet/IMX6ULLIEC.pdf"
 			(at -23.114 60.198 0)
 			(effects
 				(font
@@ -9059,7 +9059,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.nxp.com/docs/en/data-sheet/IMX6ULLIEC.pdf"
 			(at -19.304 89.408 0)
 			(effects
 				(font
@@ -10136,7 +10136,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.nxp.com/docs/en/data-sheet/IMX6ULLIEC.pdf"
 			(at -9.144 133.858 0)
 			(effects
 				(font
